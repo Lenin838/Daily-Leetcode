@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Lenin838/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Lenin838/Daily-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -19,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Lenin838/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0219-contains-duplicate-ii](https://github.com/Lenin838/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Lenin838/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Lenin838/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
