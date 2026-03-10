@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Lenin838/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Lenin838/Daily-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Lenin838/Daily-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Array
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Lenin838/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Lenin838/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
