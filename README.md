@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lenin838/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Lenin838/Daily-Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Lenin838/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Lenin838/Daily-Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Lenin838/Daily-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lenin838/Daily-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Lenin838/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Lenin838/Daily-Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
