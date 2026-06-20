@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Lenin838/Daily-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lenin838/Daily-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Lenin838/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Lenin838/Daily-Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Lenin838/Daily-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Lenin838/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Lenin838/Daily-Leetcode/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/Lenin838/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Lenin838/Daily-Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Sliding Window
 |  |
@@ -44,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Lenin838/Daily-Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Lenin838/Daily-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Lenin838/Daily-Leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Lenin838/Daily-Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lenin838/Daily-Leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Lenin838/Daily-Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Lenin838/Daily-Leetcode/tree/master/0441-arranging-coins) |
 ## Linked List
 |  |
@@ -80,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Lenin838/Daily-Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Dynamic Programming
 |  |
