@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Lenin838/Daily-Leetcode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lenin838/Daily-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Lenin838/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
