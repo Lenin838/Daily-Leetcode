@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Lenin838/Daily-Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Lenin838/Daily-Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3945-digit-frequency-score](https://github.com/Lenin838/Daily-Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Lenin838/Daily-Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lenin838/Daily-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/Lenin838/Daily-Leetcode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
