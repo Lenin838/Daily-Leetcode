@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Lenin838/Daily-Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Lenin838/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Lenin838/Daily-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/Lenin838/Daily-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lenin838/Daily-Leetcode/tree/master/0067-add-binary) |
+| [3925-concatenate-array-with-reverse](https://github.com/Lenin838/Daily-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
