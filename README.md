@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Lenin838/Daily-Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0509-fibonacci-number) |
+| [2396-strictly-palindromic-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lenin838/Daily-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lenin838/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Lenin838/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
