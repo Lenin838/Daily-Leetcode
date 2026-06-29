@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Lenin838/Daily-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Lenin838/Daily-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lenin838/Daily-Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3280-convert-date-to-binary](https://github.com/Lenin838/Daily-Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Lenin838/Daily-Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Lenin838/Daily-Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Lenin838/Daily-Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lenin838/Daily-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/Lenin838/Daily-Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lenin838/Daily-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/Lenin838/Daily-Leetcode/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lenin838/Daily-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
