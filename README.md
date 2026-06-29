@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Lenin838/Daily-Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lenin838/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Lenin838/Daily-Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2574-left-and-right-sum-differences](https://github.com/Lenin838/Daily-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lenin838/Daily-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lenin838/Daily-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Lenin838/Daily-Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Lenin838/Daily-Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Lenin838/Daily-Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Lenin838/Daily-Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
