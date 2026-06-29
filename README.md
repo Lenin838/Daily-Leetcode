@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Lenin838/Daily-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lenin838/Daily-Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3516-find-closest-person](https://github.com/Lenin838/Daily-Leetcode/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Lenin838/Daily-Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3945-digit-frequency-score](https://github.com/Lenin838/Daily-Leetcode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
