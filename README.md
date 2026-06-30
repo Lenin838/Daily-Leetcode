@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Lenin838/Daily-Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Lenin838/Daily-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Lenin838/Daily-Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/Lenin838/Daily-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Lenin838/Daily-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lenin838/Daily-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Lenin838/Daily-Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Lenin838/Daily-Leetcode/tree/master/0226-invert-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/Lenin838/Daily-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Lenin838/Daily-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Lenin838/Daily-Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Lenin838/Daily-Leetcode/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Lenin838/Daily-Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/Lenin838/Daily-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Lenin838/Daily-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Recursion
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lenin838/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Lenin838/Daily-Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/Lenin838/Daily-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Lenin838/Daily-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Greedy
 |  |
