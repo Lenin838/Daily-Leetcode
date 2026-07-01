@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Lenin838/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lenin838/Daily-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Lenin838/Daily-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Lenin838/Daily-Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Lenin838/Daily-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lenin838/Daily-Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Lenin838/Daily-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lenin838/Daily-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Lenin838/Daily-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
