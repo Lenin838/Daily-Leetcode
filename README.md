@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Lenin838/Daily-Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Lenin838/Daily-Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lenin838/Daily-Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Lenin838/Daily-Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Lenin838/Daily-Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Lenin838/Daily-Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3280-convert-date-to-binary](https://github.com/Lenin838/Daily-Leetcode/tree/master/3280-convert-date-to-binary) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Lenin838/Daily-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Lenin838/Daily-Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Lenin838/Daily-Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lenin838/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Lenin838/Daily-Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Lenin838/Daily-Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Lenin838/Daily-Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Lenin838/Daily-Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Lenin838/Daily-Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Lenin838/Daily-Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Lenin838/Daily-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Number Theory
