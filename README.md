@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Lenin838/Daily-Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1720-decode-xored-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/1720-decode-xored-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lenin838/Daily-Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Lenin838/Daily-Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Lenin838/Daily-Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Lenin838/Daily-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Lenin838/Daily-Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Lenin838/Daily-Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Lenin838/Daily-Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Lenin838/Daily-Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Lenin838/Daily-Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Lenin838/Daily-Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
