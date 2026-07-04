@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Lenin838/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Lenin838/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Lenin838/Daily-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Lenin838/Daily-Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Lenin838/Daily-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Lenin838/Daily-Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Lenin838/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lenin838/Daily-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Lenin838/Daily-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1021-remove-outermost-parentheses](https://github.com/Lenin838/Daily-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Lenin838/Daily-Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1678-goal-parser-interpretation](https://github.com/Lenin838/Daily-Leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Lenin838/Daily-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Lenin838/Daily-Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Lenin838/Daily-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/Lenin838/Daily-Leetcode/tree/master/0622-design-circular-queue) |
 | [1603-design-parking-system](https://github.com/Lenin838/Daily-Leetcode/tree/master/1603-design-parking-system) |
 ## Queue
@@ -380,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Lenin838/Daily-Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Lenin838/Daily-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
