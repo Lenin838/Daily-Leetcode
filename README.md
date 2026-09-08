@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Lenin838/Daily-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Lenin838/Daily-Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Lenin838/Daily-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Lenin838/Daily-Leetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lenin838/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Lenin838/Daily-Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Lenin838/Daily-Leetcode/tree/master/0441-arranging-coins) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Lenin838/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Linked List
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Lenin838/Daily-Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Lenin838/Daily-Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Lenin838/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
