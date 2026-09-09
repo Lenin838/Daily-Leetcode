@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Lenin838/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0622-design-circular-queue](https://github.com/Lenin838/Daily-Leetcode/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/Lenin838/Daily-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Lenin838/Daily-Leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Lenin838/Daily-Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Lenin838/Daily-Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lenin838/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Lenin838/Daily-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Lenin838/Daily-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
 | ------- |
