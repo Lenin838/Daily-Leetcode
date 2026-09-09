@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Lenin838/Daily-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Lenin838/Daily-Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [2540-minimum-common-value](https://github.com/Lenin838/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Lenin838/Daily-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Lenin838/Daily-Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Lenin838/Daily-Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lenin838/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Lenin838/Daily-Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Lenin838/Daily-Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2540-minimum-common-value](https://github.com/Lenin838/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Lenin838/Daily-Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Lenin838/Daily-Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Lenin838/Daily-Leetcode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Lenin838/Daily-Leetcode/tree/master/0441-arranging-coins) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lenin838/Daily-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/Lenin838/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Lenin838/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Linked List
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lenin838/Daily-Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lenin838/Daily-Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Lenin838/Daily-Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/Lenin838/Daily-Leetcode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Lenin838/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3794-reverse-string-prefix](https://github.com/Lenin838/Daily-Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
